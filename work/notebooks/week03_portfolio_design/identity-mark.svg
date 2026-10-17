@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Minimal navy and teal connected-node identity mark">
+  <rect width="256" height="256" rx="48" fill="#F8FAFC"/>
+  <path d="M68 180V76h30l60 70V76h30v104h-28L98 108v72z" fill="#17324D"/>
+  <circle cx="188" cy="180" r="17" fill="#247A78"/>
+</svg>
