@@ -1,0 +1,3 @@
+Typography & Colors: Use Space Grotesk for headings and Inter for body text. Palette: Deep Charcoal #111318, Off-White #F4F5F7, Slate Gray #9298A5, and Electric Green #B7F36B.
+
+Visual Mood: Minimal, modern, and technical, with generous spacing and restrained green accents; keep AI/ML projects, evidence, and results as the main focus.
